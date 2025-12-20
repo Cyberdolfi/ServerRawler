@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'ServerRawler',
   tagline: 'A Minecraft server crawler, written in Rust',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -55,7 +55,7 @@ const config = {
 
   themeConfig:
     ({
-      image: 'img/docusaurus.png',
+      image: 'img/logo.png',
 
       docs: {
         sidebar: {
@@ -75,7 +75,7 @@ const config = {
 
         logo: {
           alt: 'Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
 
         items: [
