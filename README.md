@@ -10,8 +10,9 @@
   <a href="https://mysql.com/"><img src="https://img.shields.io/badge/mysql-gray?style=for-the-badge&logo=mysql&logoColor=orange" alt="MySQL"/></a>
   <a href="https://www.jetbrains.com/"><img src="https://img.shields.io/badge/jetbrains-gray?style=for-the-badge&logo=jetbrains&logoColor=orange" alt="JetBrains"/></a>
   <br>
+  <a href="https://cyberdolfi.github.io/ServerRawler/"><img src="https://shields.io/badge/wiki-gray?style=for-the-badge&logo=readthedocs&logoColor=orange" alt="Wiki page"/></a>
   <a href="https://discord.gg/m4hhckJe4v"><img src="https://img.shields.io/discord/1421594734442319996.svg?style=for-the-badge&logo=discord&logoColor=orange&label=discord&color=orange" alt="Discord"/></a>
-  <a href="https://github.com/Cyberdolfi/ServerRawler/releases/"><img src="https://shields.io/github/downloads/cyberdolfi/serverrawler/total?style=for-the-badge&label=github%20downloads&color=orange&logo=github&logoColor=orange" alt="GitHub Downloads"/></a>
+  <a href="https://github.com/Cyberdolfi/ServerRawler/releases/"><img src="https://shields.io/github/downloads/cyberdolfi/serverrawler/total?style=for-the-badge&label=downloads&color=orange&logo=github&logoColor=orange" alt="GitHub Downloads"/></a>
 </div>
 
 ---
@@ -70,30 +71,28 @@ This change is invisible to the client and won't change the appearance of your s
 
 If the server is discovered again in the future, it will be automatically excluded **and removed from the database**.
 
-More information can be found in the documentation.
+More information can be found in the [**Documentation**](https://cyberdolfi.github.io/ServerRawler/).
 
 ---
 
 ## 📥 Installation
-> Installation instructions will be available in the Wiki soon.
+Installation instructions are in the [**Documentation**](https://cyberdolfi.github.io/ServerRawler/).
 
 ---
 
 ## 📜 License
 
-This project is licensed under the [MIT License](./LICENSE).
+This project is licensed under the [GPL-3.0 License](./LICENSE).
 
 ---
 
 ## 🤝 Contributing
 
-* Found a bug? → [Create an issue](https://github.com/Cyberdolfi/ServerRawler/issues)
-* Have ideas or suggestions? → Join my [Discord](https://discord.gg/4wHFzBjDTY "Discord")
+* Found a bug? -> [Create an issue](https://github.com/Cyberdolfi/ServerRawler/issues)
+* Have ideas or suggestions? -> Join my [Discord](https://discord.gg/4wHFzBjDTY "Discord")
+* Want to contribute code? -> [Fork the repository](https://github.com/Cyberdolfi/ServerRawler/fork)
 
 ---
 
 > [!WARNING]
-> This tool is intended for educational and research purposes only.  
-> The authors are not responsible for any misuse of this tool.  
-> Only publicly accessible data exposed by the Minecraft server protocols is collected.  
-> Scanning servers without permission may violate terms of service or local laws.
+> The authors are not responsible for any misuse of this tool.

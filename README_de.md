@@ -1,6 +1,6 @@
 <div align="center">
   <h1>ServerRawler</h1>
-  <p>Ein leistungsstarker Minecraft Server Scanner, in Rust</p>
+  <p>Ein leistungsstarker Minecraft Server Scanner, gecoded in Rust</p>
 </div>
 
 ---
@@ -10,8 +10,9 @@
   <a href="https://mysql.com/"><img src="https://img.shields.io/badge/mysql-gray?style=for-the-badge&logo=mysql&logoColor=orange" alt="MySQL"/></a>
   <a href="https://www.jetbrains.com/"><img src="https://img.shields.io/badge/jetbrains-gray?style=for-the-badge&logo=jetbrains&logoColor=orange" alt="JetBrains"/></a>
   <br>
+  <a href="https://cyberdolfi.github.io/ServerRawler/"><img src="https://shields.io/badge/wiki-gray?style=for-the-badge&logo=readthedocs&logoColor=orange" alt="Wiki page"/></a>
   <a href="https://discord.gg/m4hhckJe4v"><img src="https://img.shields.io/discord/1421594734442319996.svg?style=for-the-badge&logo=discord&logoColor=orange&label=discord&color=orange" alt="Discord"/></a>
-  <a href="https://github.com/Cyberdolfi/ServerRawler/releases/"><img src="https://shields.io/github/downloads/cyberdolfi/serverrawler/total?style=for-the-badge&label=github%20downloads&color=orange&logo=github&logoColor=orange" alt="GitHub Downloads"/></a>
+  <a href="https://github.com/Cyberdolfi/ServerRawler/releases/"><img src="https://shields.io/github/downloads/cyberdolfi/serverrawler/total?style=for-the-badge&label=downloads&color=orange&logo=github&logoColor=orange" alt="GitHub Downloads"/></a>
 </div>
 
 ---
@@ -69,7 +70,7 @@ Du kannst `§b§d§f§d§b` am Ende der Serverbeschreibung hinzufügen, indem du
 Diese Änderung ist für den Client unsichtbar und verändert das Aussehen der Serverbeschreibung *in den meisten Fällen* nicht.
 Wenn der Server erneut entdeckt gescannt wurde, wird er automatisch übersprungen **und aus der Datenbank entfernt**.
 
-Weitere Informationen findest du in der Dokumentation.
+Weitere Informationen findest du in der [**Dokumentation**](https://cyberdolfi.github.io/ServerRawler/).
 
 ---
 
@@ -80,19 +81,17 @@ Weitere Informationen findest du in der Dokumentation.
 
 ## 📜 Lizenz
 
-Dieses Projekt ist unter der [MIT-Lizenz](./LICENSE) lizenziert.
+Dieses Projekt ist unter der [GPL-3.0 Lizenz](./LICENSE) lizenziert.
 
 ---
 
 ## 🤝 Mitwirken
 
-* Bug gefunden? → [Issue erstellen](https://github.com/Cyberdolfi/ServerRawler/issues)
-* Ideen oder Vorschläge? → Tritt meinem [Discord](https://discord.gg/4wHFzBjDTY "Discord") bei
+* Bug gefunden? -> [Issue erstellen](https://github.com/Cyberdolfi/ServerRawler/issues)
+* Ideen oder Vorschläge? -> Joine mein [Discord](https://discord.gg/4wHFzBjDTY "Discord")
+* Mächtest Updates selbst schreiben? -> [Forke diese Repository](https://github.com/Cyberdolfi/ServerRawler/fork)
 
 ---
 
 > [!WARNING]
-> Dieses Tool ist ausschließlich für Bildungs- und Forschungszwecke gedacht.  
-> Die Autoren übernehmen keine Verantwortung für den Missbrauch dieses Tools.  
-> Es werden nur öffentlich zugängliche Daten erfasst, die durch die Minecraft-Server-Protokolle bereitgestellt werden.  
-> Das Scannen von Servern ohne Erlaubnis kann gegen Nutzungsbedingungen oder lokale Gesetze verstoßen.
+> Die Autoren übernehmen keine Verantwortung für den Missbrauch dieses Tools.
