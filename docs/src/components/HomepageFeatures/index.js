@@ -34,7 +34,7 @@ const FeatureList = [
   },
   {
     title: 'API',
-    Svg: require('@site/static/img/api_icon.svg').default,
+    image: require('@site/static/img/api_banner.png').default,
     description: (
       <>
         If you want to control ServerRawler not with a Discord bot,
