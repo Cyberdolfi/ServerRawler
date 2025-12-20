@@ -6,7 +6,7 @@ sidebar_position: 1
 
 <div align="center">
   <h1>ServerRawler</h1>
-  <p>A high-performance Minecraft server scanner written in Rust</p>
+  <p>A high-performance Minecraft server crawler, <br /> designed to discover publicly reachable servers.</p>
 </div>
 
 ---
@@ -21,11 +21,6 @@ sidebar_position: 1
 </div>
 
 ---
-
-The **ServerRawler** by Cyberdolfi is a Minecraft server scanner (or crawler - however you want to call it),  
-that tries to find as many servers as it can.
-
-
 
 :::warning[Alpha Warning]
 
@@ -53,13 +48,13 @@ The documentation is still being written and features are still being added.
 ---
 
 ### What data does it save?
-- Motd (Description)
+- MOTD (Description)
 - Max./Online players
 - Online players (with **Username** and **UUID**)
 - Plugins
 - Mods
 - Online mode
-- Whitelist (only when the server is cracked)
+- Whitelist status (only available on **offline-mode** servers)
 - Server version and software
 - ... and much more!
 
@@ -67,7 +62,7 @@ The documentation is still being written and features are still being added.
 
 ## How to prevent your server from being scanned
 
-### Use description:
+### Using the server description
 You can add `§b§d§f§d§b` to the end of your server's description by changing the `server.properties` file.  
 This change is invisible to the client and won't change the appearance of your server's description *in most cases*.
 
@@ -77,9 +72,21 @@ More information can be found [here](./guides/hiding-server.mdx).
 
 ---
 
+:::note[Ethical Notice]
+
+ServerRawler respects server owners' choices.  
+Servers that opt out are permanently excluded from future scans  
+and removed from the database.  
+The authors are not responsible for any misuse of this tool.
+
+:::
+
+
+---
+
 ## License
 
-This project is licensed under the [MIT License](https://github.com/Cyberdolfi/ServerRawler/blob/main/LICENSE).
+This project is licensed under the [GNU GPL-3 License](https://github.com/Cyberdolfi/ServerRawler/blob/main/LICENSE).
 
 ---
 
@@ -105,5 +112,5 @@ We use(ed):
 - And many more...
 
 
-Thanks to the Contributers:
+Thanks to the Contributors:
 - [@Cyberdolfi](https://github.com/Cyberdolfi) - Main developer (Owner)
