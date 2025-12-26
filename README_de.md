@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Cyberdolfi/ServerRawler/refs/heads/main/docs/static/img/logo.png" width="200">
   <h1>ServerRawler</h1>
   <p>Ein leistungsstarker Minecraft Server Scanner, gecoded in Rust</p>
 </div>
