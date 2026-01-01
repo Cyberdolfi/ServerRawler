@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Cyberdolfi/ServerRawler/refs/heads/main/docs/static/img/logo.png" width="200">
   <h1>ServerRawler</h1>
-  <p>Ein leistungsstarker Minecraft Server Scanner, gecoded in Rust</p>
+  <p>Ein leistungsstarker Minecraft Server Scanner, geschrieben in Rust</p>
 </div>
 
 ---
@@ -12,7 +12,7 @@
   <a href="https://www.jetbrains.com/"><img src="https://img.shields.io/badge/jetbrains-gray?style=for-the-badge&logo=jetbrains&logoColor=orange" alt="JetBrains"/></a>
   <br>
   <a href="https://cyberdolfi.github.io/ServerRawler/"><img src="https://shields.io/badge/wiki-gray?style=for-the-badge&logo=readthedocs&logoColor=orange" alt="Wiki page"/></a>
-  <a href="https://discord.gg/m4hhckJe4v"><img src="https://img.shields.io/discord/1421594734442319996.svg?style=for-the-badge&logo=discord&logoColor=orange&label=discord&color=orange" alt="Discord"/></a>
+  <a href="https://discord.gg/FcWaApSbep"><img src="https://img.shields.io/discord/1421594734442319996.svg?style=for-the-badge&logo=discord&logoColor=orange&label=discord&color=orange" alt="Discord"/></a>
   <a href="https://github.com/Cyberdolfi/ServerRawler/releases/"><img src="https://shields.io/github/downloads/cyberdolfi/serverrawler/total?style=for-the-badge&label=downloads&color=orange&logo=github&logoColor=orange" alt="GitHub Downloads"/></a>
 </div>
 
