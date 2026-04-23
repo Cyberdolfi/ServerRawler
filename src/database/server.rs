@@ -193,7 +193,7 @@ pub async fn search_servers(filters: SearchFilters, limit: i64) -> Result<Option
         }
     }
 
-    push_string_filter(&mut query_builder, "h.plain_description", filters.description);
+    push_string_filter(&mut query_builder, "h.description", filters.description);
     push_string_filter(&mut query_builder, "h.version_name", filters.version_name);
     push_string_filter(&mut query_builder, "h.software->>'name'", filters.software_name);
     push_string_filter(&mut query_builder, "h.kick_message", filters.kick_message);
