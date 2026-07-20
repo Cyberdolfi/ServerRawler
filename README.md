@@ -22,7 +22,8 @@
 > Join my Discord, to easily use my Database
 
 > [!IMPORTANT]
-> This project is currently in paused!
+> This project is currently in paused!  
+> I will fix the bugs in the next time and may rewrite so things for the first 1.0.0 stable release.
 
 ---
 
